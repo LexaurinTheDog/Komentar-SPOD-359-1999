@@ -1956,6 +1956,11 @@ Státní příspěvek na výkon pěstounské péče je dávkou pro ORP/pověřen
 
 § 47e otevírá Hlavu II a taxativně vymezuje pět dávek pěstounské péče, které tvoří systém sociálního zabezpečení pěstounských rodin nezávislý na obecné státní sociální podpoře: příspěvek na úhradu potřeb dítěte (§ 47f–47g), odměna pěstouna (§ 47i–47j), příspěvek při převzetí dítěte (§ 47l), příspěvek na zakoupení osobního motorového vozidla (§ 47m) a příspěvek při pěstounské péči (§ 47ja, dávka pro nezprostředkovanou pěstounskou péči). O všech dávkách rozhoduje krajská pobočka Úřadu práce a řízení se subsidiárně řídí správním řádem, není-li v SPOD stanoveno jinak.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 ICdo 23/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DCC1CD02DCB7F714C12582C600479925?openDocument) — 27. 3. 2018, kat. A
+  > „Pohledávka vzniklá po rozhodnutí o úpadku dlužníka z titulu přeplatku na dávce pěstounské péče není pohledávkou za majetkovou podstatou ve smyslu ustanovení § 168 odst. 2 písm. e/ insolvenčního zákona. Veřejnoprávní pohledávka, která vznikla po rozhodnutí o úpadku dlužníka, není ve smyslu ustanovení § 168 odst. 2 písm. e/ insolvenčního zákona daní, poplatkem nebo jiným obdobným peněžitým plněním jen proto, že ve smyslu § 2 odst. 3 písm. b/ daňového řádu se pro účely daňového řádu rozumí daní peněžité plnění, pokud zákon stanoví, že se při jeho správě postupuje podle daňového řádu"
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Prarodiče převzali vnouče do péče na základě soudního rozhodnutí o svěření do pěstounské péče (nezprostředkovaná péče). Domnívají se, že jim náleží pouze „odměna pěstouna" jako jediná dávka; nevědí o dalších nárocích.
@@ -2019,6 +2024,11 @@ Riziko záměny dávek u nezprostředkované péče (odměna pěstouna vs. pří
 **Výklad:**
 
 § 47f upravuje **příspěvek na úhradu potřeb dítěte** — dávku, jejímž nositelem nároku je samo dítě (nikoli pěstoun), určenou na krytí běžných výdajů spojených s jeho výživou a potřebami. Nárok má nezletilé nezaopatřené dítě svěřené do péče osoby pečující; při změně osoby pečující v témže měsíci se příspěvek vyplácí té, která pečovala déle, případně dle určení krajské pobočky Úřadu práce (odst. 1). Nárok se za podmínek uvedených v odst. 2 prodlužuje i po zletilosti až do 26 let věku, navazuje-li na zaopatřovací příspěvek podle § 50b, a to jako dávka náležející přímo zletilému dítěti, žije-li nadále s bývalou osobou pečující a sdílí s ní náklady. Výše je odstupňována podle věku dítěte (odst. 3) a zvyšuje se u dětí se zdravotním postižením podle stupně závislosti (odst. 4).
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 ICdo 23/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DCC1CD02DCB7F714C12582C600479925?openDocument) — 27. 3. 2018, kat. A
+  > „Pohledávka vzniklá po rozhodnutí o úpadku dlužníka z titulu přeplatku na dávce pěstounské péče není pohledávkou za majetkovou podstatou ve smyslu ustanovení § 168 odst. 2 písm. e/ insolvenčního zákona. Veřejnoprávní pohledávka, která vznikla po rozhodnutí o úpadku dlužníka, není ve smyslu ustanovení § 168 odst. 2 písm. e/ insolvenčního zákona daní, poplatkem nebo jiným obdobným peněžitým plněním jen proto, že ve smyslu § 2 odst. 3 písm. b/ daňového řádu se pro účely daňového řádu rozumí daní peněžité plnění, pokud zákon stanoví, že se při jeho správě postupuje podle daňového řádu"
 
 #### F. Kazuistika
 
@@ -2845,6 +2855,11 @@ Osmidenní ohlašovací a součinnostní lhůty jsou krátké a jejich nedodrže
 
 Institut přeplatku sankcionuje příjemce, který vyplacenou dávku nebo její část přijal, ač musel z okolností předpokládat její neoprávněnost či nesprávnou výši, nebo její neoprávněné vyplacení jinak sám zavinil (odst. 1) — jde o odpovědnost založenou na zavinění, nikoli o objektivní vratnou povinnost bez ohledu na okolnosti. O povinnosti vrátit přeplatek rozhoduje krajská pobočka, která dávku vyplácí či vyplácela naposledy, a to v prekluzivní lhůtě 5 let od výplaty dávky; tato lhůta se nevztahuje na případné další rozhodnutí v téže věci (odst. 2). Přeplatek lze vymáhat i srážkami z běžně vyplácené či později přiznané dávky, přičemž příjemci musí zůstat nejméně polovina dávky, ze které se srazí (ustanovení o nepostižitelnosti dávky exekucí se zde neuplatní). Vrácené a vymožené prostředky jsou příjmem státního rozpočtu (odst. 3).
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 ICdo 23/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DCC1CD02DCB7F714C12582C600479925?openDocument) — 27. 3. 2018, kat. A
+  > „Pohledávka vzniklá po rozhodnutí o úpadku dlužníka z titulu přeplatku na dávce pěstounské péče není pohledávkou za majetkovou podstatou ve smyslu ustanovení § 168 odst. 2 písm. e/ insolvenčního zákona. Veřejnoprávní pohledávka, která vznikla po rozhodnutí o úpadku dlužníka, není ve smyslu ustanovení § 168 odst. 2 písm. e/ insolvenčního zákona daní, poplatkem nebo jiným obdobným peněžitým plněním jen proto, že ve smyslu § 2 odst. 3 písm. b/ daňového řádu se pro účely daňového řádu rozumí daní peněžité plnění, pokud zákon stanoví, že se při jeho správě postupuje podle daňového řádu"
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Příjemce odměny pěstouna neohlásí zánik podmínek nároku a dávka mu je dále vyplácena po dobu šesti měsíců. **2. Právní otázka.** Vzniká povinnost vrátit vyplacené částky a jakým způsobem lze přeplatek vymoci? **3. Použitelné právo.** § 47z odst. 1–3; § 47y (ohlašovací povinnost); § 47q odst. 2 (odnětí dávky). **4. Subsumpce.** Příjemce musel z okolností předpokládat neoprávněnost dalšího pobírání dávky — naplněn znak odst. 1. **5. Řešení.** Pobočka rozhodne o povinnosti vrátit přeplatek do pěti let od výplaty; úhradu lze provést i srážkami z jiné dávky při zachování poloviny jejího objemu. **6. Varianty.** Nešlo-li o zavinění příjemce, institut přeplatku se neuplatní a věc se řeší jen do budoucna podle § 47q odst. 2.
@@ -2874,6 +2889,11 @@ Vratná povinnost je vázána na zavinění příjemce a je časově omezena pě
 **Výklad:**
 
 Ustanovení ukládá třetím osobám (státním orgánům, právnickým i fyzickým osobám, mimo samotné příjemce a oprávněné osoby) bezplatnou součinnostní povinnost sdělit na výzvu krajské pobočky, případně na požádání žadatele o dávku, údaje rozhodné pro nárok, výši nebo výplatu dávky; u údajů o zdravotním stavu se úhrada zdravotních výkonů řídí zvláštními předpisy (odst. 1). Odstavec 2 řeší kolizi s mlčenlivostí — je-li sdělení údajů vázáno na zproštění mlčenlivosti, považuje se dotčená osoba za zproštěnou, sdělí-li jí krajská pobočka písemně, že osoba, jíž se údaje týkají, dala písemný souhlas se sdělením údajů (fikce zproštění navázaná na souhlas podle § 47p odst. 4).
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 ICdo 23/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DCC1CD02DCB7F714C12582C600479925?openDocument) — 27. 3. 2018, kat. A
+  > „Pohledávka vzniklá po rozhodnutí o úpadku dlužníka z titulu přeplatku na dávce pěstounské péče není pohledávkou za majetkovou podstatou ve smyslu ustanovení § 168 odst. 2 písm. e/ insolvenčního zákona. Veřejnoprávní pohledávka, která vznikla po rozhodnutí o úpadku dlužníka, není ve smyslu ustanovení § 168 odst. 2 písm. e/ insolvenčního zákona daní, poplatkem nebo jiným obdobným peněžitým plněním jen proto, že ve smyslu § 2 odst. 3 písm. b/ daňového řádu se pro účely daňového řádu rozumí daní peněžité plnění, pokud zákon stanoví, že se při jeho správě postupuje podle daňového řádu"
 
 #### F. Kazuistika
 
